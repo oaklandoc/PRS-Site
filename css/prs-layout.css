@@ -1,0 +1,194 @@
+/* ************************* */
+/* Base tags */
+/* ************************* */
+
+body {
+	background-color:#ddd;
+	margin:0px;
+	font-family: 'Futura-Bold', Fallback, sans-serif; 
+}
+
+a {
+	text-decoration:none;
+}
+
+/* ************************* */
+/* PRS site layout */
+/* ************************* */
+
+div#site {
+	width:1440px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:0px;
+	background-color:#1b1432;
+	color:#fff;
+	position:relative;
+	background-image:url('../images/home_background_vector_squiggles.svg');
+	
+}
+
+div#header_container {
+	text-align:center;
+	width:1440px;
+	height:85px;
+	top:23px;	
+	left:0px;
+	position:absolute;
+	z-index:100;	
+}
+	
+
+div#header {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:left;
+	background-color:rgba(8,10,30,0.85);
+	width: 1312px;
+	height: 85px;
+	z-index:100;
+	position:relative;
+	text-align:left;
+}
+
+div#nav {
+	font-size:13px;
+	float:right;
+	margin-right:17px;
+}
+
+div#nav a.menu_item{
+	display:inline-block;
+	color:#8c8c8c;
+	text-align:center;
+	width:91px;
+	margin:0px;
+	padding:0px;
+	line-height:85px;
+	text-decoration:none;
+}
+
+div#nav a.menu_item:hover {
+	background-color:#eb1b56;
+	color:#ffffff;
+	opacity:1.0;
+}
+
+div#nav a.sign_in {
+	display:inline-block;
+	background-color:#eb1b56;
+	color:#ffffff;
+	margin-top:14px;
+	margin-bottom:15px;
+	height:57px;
+	line-height:57px;
+	width:135px;
+	text-align:center;
+	text-decoration:none;
+	opacity:1.0;
+	margin-left:60px;
+}
+
+img#logo {
+	top:14px;
+	left:16px;
+	position:absolute;
+}
+
+/* ************************* */
+/* specific to dropdown menu */
+/* ************************* */
+
+div.dropdown {
+    position: relative;
+    display: inline-block;
+	width:91px;
+}
+
+div.dropdown:hover a.menu_item {
+	background-color:#eb1b56;
+	color:#ffffff !important;
+}
+
+div.dropdown_content {
+    display: none;
+    position: absolute;
+    margin:0px;
+	padding:0px;
+    z-index: 1;
+}
+
+div.dropdown_content a.submenu_item {
+	display:inline-block;
+    background-color: rgba(53,53,84,0.85);
+	color:#8c8c8c;
+	text-align:center;
+	width:91px;
+	margin:0px;
+	padding:0px;
+	line-height:50px;
+	text-decoration:none;
+}
+
+div.dropdown_content a.submenu_item:hover {
+	background-color:rgba(255,127,164,0.85);
+	color:#ffffff;
+}
+
+div.dropdown:hover div.dropdown_content {
+    display: block;
+}
+
+
+/* ************************* */
+/* site footer */
+/* ************************* */
+
+div#footer {
+	border-top:7px solid #EB1B56;
+	background-color:#3B3452;
+	padding-left:60px; 
+	padding-right:60px; 
+	padding-top:35px; 
+	padding-bottom:35px;
+	position:relative;
+	font-size:14px;
+	color: #8C8C8C;
+}
+
+div#footer a.social_link {
+	display:inline-block;
+	border:1px solid #EB1B56;
+	width:67px;
+	height:57px;
+	text-align:center;
+	margin-right:10px;
+}
+
+div#footer a.social_link:hover {
+	border:1px solid #ffffff;
+}
+
+div#footer div.hr {
+	margin-top:10px;
+	margin-bottom:10px;
+	height:1px;
+	background-color:#EB1B56;
+}
+
+div#footer a {
+	display:block;
+	color: #8C8C8C;
+	margin-bottom:8px;
+}
+
+div#footer a.heading {
+	color: #EB1B56;
+}
+
+div#footer a:hover {
+	color: #ffffff;
+}
+
+
+

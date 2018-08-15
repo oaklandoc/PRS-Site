@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1444" height="520">
+	<defs>
+		<clipPath id="clip_0">
+			<rect y="-990" width="1440" height="3495" clip-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip_0)">
+		<path fill="none" stroke="rgb(235,27,86)" stroke-width="1" stroke-miterlimit="4" transform="translate(0.40625 0.453125)" d="M0 0L209.172 369.914L654.617 112.68L1042.2 469.898L1296.07 127.234L1442.63 391.789L0 0L209.172 369.914L654.617 112.68L1042.2 469.898L1296.07 127.234L1442.63 391.789"/>
+	</g>
+	<defs>
+		<clipPath id="clip_1">
+			<rect y="-990" width="1440" height="3495" clip-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip_1)">
+		<path fill="none" stroke="rgb(235,27,86)" stroke-width="1" stroke-miterlimit="4" transform="translate(0 10)" d="M0 0L209.172 369.914L654.617 112.68L1042.2 469.898L1296.07 127.234L1442.63 391.789L0 0L209.172 369.914L654.617 112.68L1042.2 469.898L1296.07 127.234L1442.63 391.789"/>
+	</g>
+	<defs>
+		<clipPath id="clip_2">
+			<rect y="-990" width="1440" height="3495" clip-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip_2)">
+		<path fill="none" stroke="rgb(235,27,86)" stroke-width="1" stroke-miterlimit="4" transform="translate(0 20)" d="M0 0L209.172 369.914L654.617 112.68L1042.2 469.898L1296.07 127.234L1442.63 391.789L0 0L209.172 369.914L654.617 112.68L1042.2 469.898L1296.07 127.234L1442.63 391.789"/>
+	</g>
+	<defs>
+		<clipPath id="clip_3">
+			<rect y="-990" width="1440" height="3495" clip-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip_3)">
+		<path fill="none" stroke="rgb(235,27,86)" stroke-width="1" stroke-miterlimit="4" transform="translate(0 30)" d="M0 0L209.172 369.914L654.617 112.68L1042.2 469.898L1296.07 127.234L1442.63 391.789L0 0L209.172 369.914L654.617 112.68L1042.2 469.898L1296.07 127.234L1442.63 391.789"/>
+	</g>
+	<defs>
+		<clipPath id="clip_4">
+			<rect y="-990" width="1440" height="3495" clip-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip_4)">
+		<path fill="none" stroke="rgb(235,27,86)" stroke-width="1" stroke-miterlimit="4" transform="translate(0 40)" d="M0 0L209.172 369.914L654.617 112.68L1042.2 469.898L1296.07 127.234L1442.63 391.789L0 0L209.172 369.914L654.617 112.68L1042.2 469.898L1296.07 127.234L1442.63 391.789"/>
+	</g>
+	<defs>
+		<clipPath id="clip_5">
+			<rect y="-990" width="1440" height="3495" clip-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip_5)">
+		<path fill="none" stroke="rgb(235,27,86)" stroke-width="1" stroke-miterlimit="4" transform="translate(0 50)" d="M0 0L209.172 369.914L654.617 112.68L1042.2 469.898L1296.07 127.234L1442.63 391.789L0 0L209.172 369.914L654.617 112.68L1042.2 469.898L1296.07 127.234L1442.63 391.789"/>
+	</g>
+</svg>
